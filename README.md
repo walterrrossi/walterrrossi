@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1PhKZcyujMEibMfGoaTt-ug82c2giobI-5V8TIUiY25I/edit?usp=sharing)
 
-- ⚡ Fun fact **I love making jokes and laughing**
+- ⚡ Fun fact: **I love making jokes and laughing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
