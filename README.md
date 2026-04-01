@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **walterrossi24@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1PhKZcyujMEibMfGoaTt-ug82c2giobI-5V8TIUiY25I/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aHPjQKr44QdNmeKc99IRhxnh96-4EfNO/view?usp=drivesdkg)
 
 - ⚡ Fun fact: **I love making jokes and laughing**
 
