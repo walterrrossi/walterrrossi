@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Walter Rossi</h1>
-<h3 align="center">A passionate computer engineer from Genoa</h3>
+<h3 align="center">A passionate computer engineer / quantitative developer from Genoa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walterrrossi&label=Profile%20views&color=0e75b6&style=flat" alt="walterrrossi" /> </p>
 
-- 🔭 I’m currently working on **some projects on RAG**
+- 🔭 I’m currently working on **some projects on RAG and Quant Strategies**
 
-- 🌱 I’m currently learning **AI, Machine Learning**
+- 🌱 I’m currently learning **AI, Machine Learning and Quant Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/walterrrossi?tab=repositories](https://github.com/walterrrossi?tab=repositories)
 
